@@ -1,0 +1,11 @@
+Model Information:
+* title:	Amber
+* source:	https://sketchfab.com/3d-models/amber-a5ed8e2244914fd1b8099d3331991ce1
+* author:	The Widowed WarVet (https://sketchfab.com/TheWidowedWarVet)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Amber" (https://sketchfab.com/3d-models/amber-a5ed8e2244914fd1b8099d3331991ce1) by The Widowed WarVet (https://sketchfab.com/TheWidowedWarVet) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
