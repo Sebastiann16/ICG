@@ -61,7 +61,7 @@ import {
 	Vector3,
 	VectorKeyframeTrack,
 	sRGBEncoding
-} from 'three';
+} from 'https://lizgar.github.io/UMNG/three.module.js';
 
 class GLTFLoader extends Loader {
 
